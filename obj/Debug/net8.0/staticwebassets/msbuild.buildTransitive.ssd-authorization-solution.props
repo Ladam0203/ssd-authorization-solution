@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/ssd-authorization-solution.props" />
+</Project>
